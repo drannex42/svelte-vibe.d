@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"drannex"
+	],
+	"copyright": "Copyright © 2021, drannex",
+	"dependencies": {
+		"termcolor-d": "~>0.0.1",
+		"vibe-d": "~>0.9"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "dweb"
+}
