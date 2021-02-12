@@ -24,7 +24,7 @@ That's it! Svelte will automatically be built in nodejs.
 
 This runs the basic Vibe.d web framework as  core server infrastructure and in the svelte directory you write your code as HTML/JS/CSS as usual with Svelte.js. 
 
-When you run the application the ```main()``` function will automatically execute the svelte build scripts, and transfer the build to the D-lang ```/public``` directory. In D we are reading the static files and passing the req/res for what you need. Sweet cybernetically enhanced front-end, with a sweet low-language @safe compiled language. 
+When you run the application the ```main()``` function will automatically execute the svelte build scripts, and transfer the build to the D-lang ```/public``` directory. In D we are reading the static files and passing the req/res for what you need. Sweet cybernetically enhanced front-end, with a sweet low-language @safe(r) compiled language. 
 
 ## Why was this built?
 
