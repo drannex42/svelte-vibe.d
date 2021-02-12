@@ -30,5 +30,5 @@ When you run the application the ```main()``` function will automatically execut
 
 I dislike Pug/Jade/Diet templating engines, and love Svelte. This is a method to quickly bootstrap a nice Svelte UI with the greatness that is D-lang. I needed a low-cost, highly productive, low language embedded web view for a project I am working on for [DNX Robotics](https://dnxrobotics.com), this matches all of the requirements needed.
 
-If you don't know what [D Lang](dlang.org) is, it's the next greatest compiled language and has been around a lot longer than you think. 
+If you don't know what [D Lang](https://dlang.org/) is, it's the next greatest compiled language and has been around a lot longer than you think. 
 
