@@ -5,7 +5,6 @@ import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import css from 'rollup-plugin-css-only';
 import staticSite from 'rollup-plugin-static-site';
-import clear from 'rollup-plugin-clear'
 
 
 const production = !process.env.ROLLUP_WATCH;
